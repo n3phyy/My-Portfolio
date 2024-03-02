@@ -1,0 +1,123 @@
+body {
+    background: linear-gradient(to right, #FFAFE4, #C5B0FF); 
+    margin: 0;
+    height: 100vh; /* Set height to fit viewport */
+    font-family:'Courier New', Courier, monospace;
+}
+
+
+.header {
+    font-size:x-large;
+    color: #000000;
+    padding-top: 50px;
+
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    margin: 0;
+    font-size: 24px;
+}
+
+.nav-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.nav-list li {
+    display: inline;
+    margin-right: 20px;
+}
+
+.nav-list li:last-child {
+    margin-right: 0;
+}
+
+.nav-list li a {
+    padding: 20px;
+    text-decoration: none;
+    font-weight: bold;
+    color: #000000;
+    transition: color 0.3s ease;
+}
+
+.nav-list li a:hover {
+    color: #ffffff;
+}
+
+.section1 {
+    padding: 10px;
+}
+
+/* section css here*/
+.landingpage{
+    margin: 0;
+}
+
+.section1{
+    font-size: large;
+    padding-left: 43%;
+    padding-bottom: 20%;
+    padding-top: 15%;
+    margin: 0;
+}
+
+.section2{
+    font-size: large;
+    margin: 0;
+}
+.section2 .aboutdiv{
+    padding-left: 45%;
+    height: 100%;
+    margin: 0;
+}
+.aboutdiv{
+    background-color: #f6f6f6;
+    padding: 10px;
+    margin: 0;
+
+}
+.aboutpic{
+    position: relative;
+    display: inline-block;
+}
+.aboutpic img{
+    width:100%;
+    height: 50%;
+    filter: brightness(50%);
+    display: block;
+}
+.overlaytext .hey{
+    position: absolute;
+    top: 17%;
+    left:15%;
+    transform: translate(-50%, -50%);
+    color: #f6f6f6;
+    font-size: 30px;
+    padding: 10px;
+}
+.overlaytext h1{
+    position: absolute;
+    top: 18%;
+    left:20%;
+    color: #f6f6f6;
+    font-size: 70px;
+    padding: 10px;
+}
+.overlaytext .desc{
+    width: 50%;
+    position: absolute;
+    top: 37%;
+    left: 12%;
+    color: #f6f6f6;
+    font-size: 15px;
+    padding: 10px;
+}
