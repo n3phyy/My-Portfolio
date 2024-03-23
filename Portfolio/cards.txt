@@ -1,0 +1,58 @@
+<!--
+            <div class="card1">
+                <img src="assets/digitalcover.JPG" alt="Placeholder Image" class="card1-image">
+                <div class="card1-content">
+                    <p class="card1-title"> Digital Arts </p>
+                    <p class="card1-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consequat urna sit amet ante facilisis sollicitudin.</p>
+                    <a href="#" class="card1-link">Read More</a>
+                </div>
+            </div>
+
+            <div class="card2">
+                <img src="assets/traditionalcover.JPG" alt="Placeholder Image" class="card2-image">
+                <div class="card2-content">
+                    <p class="card1-title"> Traditional Arts </p>
+                    <p class="card2-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consequat urna sit amet ante facilisis sollicitudin.</p>
+                    <a href="#" class="card2-link">Read More</a>
+                </div>
+            </div>
+
+            <div class="card3">
+                <img src="assets/publishedcover.JPG" alt="Placeholder Image" class="card3-image">
+                <div class="card3-content">
+                    <p class="card1-title"> Published Arts </p>
+                    <p class="card3-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consequat urna sit amet ante facilisis sollicitudin.</p>
+                    <a href="#" class="card3-link">Read More</a>
+                </div>
+            </div>
+
+            <div class="card4">
+                <img src="assets/commishcover.JPG" alt="Placeholder Image" class="card4-image">
+                <div class="card4-content">
+                    <p class="card1-title"> Commissioned Arts </p>
+                    <p class="card4-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consequat urna sit amet ante facilisis sollicitudin.</p>
+                    <a href="#" class="card4-link">Read More</a>
+                </div>
+            </div>
+
+            <div class="card5">
+                <img src="assets/uicover.JPEG" alt="Placeholder Image" class="card5-image">
+                <div class="card5-content">
+                    <p class="card1-title"> UI/UX Design </p>
+                    <p class="card5-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consequat urna sit amet ante facilisis sollicitudin.</p>
+                    <a href="#" class="card5-link">Read More</a>
+                </div>
+            </div>
+
+            <div class="card6">
+                <img src="assets/shirtcover.JPEG" alt="Placeholder Image" class="card6-image">
+                <div class="card6-content">
+                    <p class="card1-title"> UI/UX Design </p>
+                    <p class="card6-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consequat urna sit amet ante facilisis sollicitudin.</p>
+                    <a href="#" class="card6-link">Read More</a>
+                </div>
+            </div>
+        
+        </section>
+    </div> closing of3rd section pg div-->
+    
